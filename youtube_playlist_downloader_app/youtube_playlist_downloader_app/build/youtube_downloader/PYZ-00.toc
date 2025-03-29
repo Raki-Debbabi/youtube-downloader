@@ -1,4 +1,5 @@
-('D:\\to_git\\build\\youtube_downloader\\PYZ-00.pyz',
+('D:\\to_git\\youtube_playlist_downloader_app\\youtube_playlist_downloader_app\\source '
+ 'code\\build\\youtube_downloader\\PYZ-00.pyz',
  [('Cryptodome',
    'C:\\Users\\Raki '
    'Debbabi\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\Cryptodome\\__init__.py',
